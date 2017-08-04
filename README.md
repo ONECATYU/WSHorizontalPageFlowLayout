@@ -34,6 +34,6 @@
 <h4>这样做的目的</h4>  
 
 <ul>
-    <li>不用担心cell的位置不对</li>
+    <li>不用担心cell的位置问题</li>
     <li>可基于UIColletionView封装通用基础控件,应对不同的UI,只是cell不同,可通过注册不同的cell,调整cell大小,间距,来达到预期效果</li>
 </ul>
